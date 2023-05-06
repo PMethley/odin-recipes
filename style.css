@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 50px;
+    color: seagreen;
+    text-align: center;
+}
+
+
+.recipe-list{
+    color:darkcyan;
+    list-style: square;
+    display: inline-block;
+    text-align: left;
+}
